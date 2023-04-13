@@ -1,0 +1,7 @@
+SABD
+ab
+S
+S->aA|bB
+A->bB|aD|a
+B->aA|bD|b
+D->aD|bD|a|b

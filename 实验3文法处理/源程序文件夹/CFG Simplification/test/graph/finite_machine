@@ -1,0 +1,14 @@
+digraph "有穷自动机" {
+	rankdir=LR
+	node [shape=doublecircle]
+	Z
+	node [shape=circle]
+	Start
+	Z -> Z [label=a]
+	A -> Z [label=b]
+	B -> Z [label=a]
+	B -> A [label=b]
+	Start -> A [label=a]
+	A -> B [label=a]
+	Start -> B [label=b]
+}

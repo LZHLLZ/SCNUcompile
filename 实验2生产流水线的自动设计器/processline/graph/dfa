@@ -1,0 +1,11 @@
+digraph "dfa表" {
+	rankdir=LR
+	node [shape=doublecircle]
+	1
+	2
+	3
+	node [shape=circle]
+	0 -> 1 [label=a]
+	0 -> 2 [label=b]
+	0 -> 3 [label=c]
+}

@@ -1,0 +1,9 @@
+read x; { input an integer }
+if  (x<>0)  { don't compute if x <= 0 }
+  fact = 1;
+  repeat
+    fact -= fact % x;
+    x = x^2
+  until x == 0;
+  write fact  { output factorial of x }
+end

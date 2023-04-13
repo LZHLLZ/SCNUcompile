@@ -1,0 +1,10 @@
+SABCDEF
+abcdef
+S
+S->Aa|Ba
+A->Cb
+B->Dc
+C->Ed
+D->Fe
+E->fe
+F->fd

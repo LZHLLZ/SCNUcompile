@@ -1,0 +1,5 @@
+ZS
+abcdefgh
+Z
+Z->Za|Sbc|dS
+S->Zef|gSh
